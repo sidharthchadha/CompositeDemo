@@ -22,10 +22,12 @@ This repository contains a simple implementation of the Composite design pattern
 ### UnitTest1.cs
 - Contains unit tests for the Composite pattern in the `CompanyDetails` and `CompanyDirectory` classes. It checks whether the company directory correctly maintains the count of employees and displays their details.
 
+
+![Alt Text](unnamed.jpg)
+
 ## How to Use
 
-You can use this code as a reference for implementing the Composite design pattern in your own projects. The `CompanyDetails` and `CompanyDirectory` classes demonstrate how to create a composite structure for organizing and managing employees within a company.
+The `CompanyDetails` and `CompanyDirectory` classes demonstrate how to create a composite structure for organizing and managing employees within a company.
 
 To run the unit tests and see how the Composite pattern is applied, execute the test methods defined in `UnitTest1.cs`. These tests showcase the functionality of the Composite pattern in the context of managing employees in a company directory.
 
-Feel free to adapt and extend this code to suit your specific requirements when working with hierarchical structures in your applications.
